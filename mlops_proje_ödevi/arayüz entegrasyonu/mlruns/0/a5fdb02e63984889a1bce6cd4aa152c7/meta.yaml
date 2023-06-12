@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/%F0%9F%92%AF/OKUL/Mlops%20Project/mlruns/0/a5fdb02e63984889a1bce6cd4aa152c7/artifacts
+end_time: 1686268784032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5fdb02e63984889a1bce6cd4aa152c7
+run_name: trusting-gnat-853
+run_uuid: a5fdb02e63984889a1bce6cd4aa152c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686268779087
+status: 3
+tags: []
+user_id: ACER

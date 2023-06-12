@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/%F0%9F%92%AF/OKUL/Mlops%20Project/mlruns/0/ffa5a6e09c3b4e55a8d79b706cff1a3b/artifacts
+end_time: 1686304200726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffa5a6e09c3b4e55a8d79b706cff1a3b
+run_name: tasteful-hound-780
+run_uuid: ffa5a6e09c3b4e55a8d79b706cff1a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686304196058
+status: 3
+tags: []
+user_id: ACER

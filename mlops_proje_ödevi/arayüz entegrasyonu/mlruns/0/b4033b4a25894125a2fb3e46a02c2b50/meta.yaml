@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/%F0%9F%92%AF/OKUL/Mlops%20Project/mlruns/0/b4033b4a25894125a2fb3e46a02c2b50/artifacts
+end_time: 1686304585494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4033b4a25894125a2fb3e46a02c2b50
+run_name: dapper-crow-607
+run_uuid: b4033b4a25894125a2fb3e46a02c2b50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686304579942
+status: 3
+tags: []
+user_id: ACER

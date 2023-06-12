@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/%F0%9F%92%AF/OKUL/Mlops%20Project/mlruns/0/23dfdf8caed4459d966f08a2b8eb9d61/artifacts
+end_time: 1686297038183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23dfdf8caed4459d966f08a2b8eb9d61
+run_name: spiffy-trout-543
+run_uuid: 23dfdf8caed4459d966f08a2b8eb9d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686297032962
+status: 3
+tags: []
+user_id: ACER

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/%F0%9F%92%AF/OKUL/Mlops%20Project/mlruns/0/b1c0c13a83694cfe9a2d046bbc6d88d7/artifacts
+end_time: 1686273690319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1c0c13a83694cfe9a2d046bbc6d88d7
+run_name: serious-koi-775
+run_uuid: b1c0c13a83694cfe9a2d046bbc6d88d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686273685500
+status: 3
+tags: []
+user_id: ACER

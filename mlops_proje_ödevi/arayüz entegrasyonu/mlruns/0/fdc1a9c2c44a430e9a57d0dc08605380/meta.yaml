@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/%F0%9F%92%AF/OKUL/Mlops%20Project/mlruns/0/fdc1a9c2c44a430e9a57d0dc08605380/artifacts
+end_time: 1686304667915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdc1a9c2c44a430e9a57d0dc08605380
+run_name: masked-midge-872
+run_uuid: fdc1a9c2c44a430e9a57d0dc08605380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686304663344
+status: 3
+tags: []
+user_id: ACER

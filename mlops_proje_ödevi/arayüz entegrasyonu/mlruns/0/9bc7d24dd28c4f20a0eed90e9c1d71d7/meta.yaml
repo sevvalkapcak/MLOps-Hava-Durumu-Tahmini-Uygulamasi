@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/%F0%9F%92%AF/OKUL/Mlops%20Project/mlruns/0/9bc7d24dd28c4f20a0eed90e9c1d71d7/artifacts
+end_time: 1686273573373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bc7d24dd28c4f20a0eed90e9c1d71d7
+run_name: nosy-whale-468
+run_uuid: 9bc7d24dd28c4f20a0eed90e9c1d71d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686273568177
+status: 3
+tags: []
+user_id: ACER

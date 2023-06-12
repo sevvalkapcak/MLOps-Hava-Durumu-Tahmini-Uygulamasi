@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/%F0%9F%92%AF/OKUL/Mlops%20Project/mlruns/0/e0e9f4d740404e4ba12e75de5c2d4bd5/artifacts
+end_time: 1686272648629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0e9f4d740404e4ba12e75de5c2d4bd5
+run_name: righteous-tern-400
+run_uuid: e0e9f4d740404e4ba12e75de5c2d4bd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686272644375
+status: 3
+tags: []
+user_id: ACER

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/Desktop/%F0%9F%92%AF/OKUL/Mlops%20Project/mlruns/0/5f7a2e8a99644669ad3b5d8538c545e8/artifacts
+end_time: 1686300043027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f7a2e8a99644669ad3b5d8538c545e8
+run_name: persistent-goat-800
+run_uuid: 5f7a2e8a99644669ad3b5d8538c545e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686300039173
+status: 3
+tags: []
+user_id: ACER
