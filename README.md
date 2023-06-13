@@ -2,4 +2,4 @@
 
 
 
-![1. Sayfa](https://drive.google.com/file/d/1uy3bv0b4VDtQ7e2Htoppz00BWuVPZcDh/view?usp=sharing)
+![1. Sayfa](https://drive.google.com/drive/folders/1eT6Q7J2C2JAfWMQqD4tWrsQ4DU2jGPyx)
