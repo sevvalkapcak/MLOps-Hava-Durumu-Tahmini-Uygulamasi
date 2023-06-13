@@ -1,2 +1,1 @@
-# MLOps Hava Durumu Tahmini 
- MLOps Dönem Sonu Projesi
+# MLOps Hava Durumu Tahmini Sonuç Ekranı
